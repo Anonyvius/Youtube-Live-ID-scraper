@@ -10,7 +10,7 @@ pip install requests html5print
 
 *USAGE:*
 ```
-> finalfornow.py
+> LiveIDscraper.py
 ```
 Enter Search term. Pretty much self explanatory.
 
